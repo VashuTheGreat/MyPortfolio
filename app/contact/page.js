@@ -8,17 +8,16 @@ const ContactPage = () => {
       
       {/* Social Icons */}
       <div className="flex gap-6 text-3xl">
-        <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="hover:text-blue-500 transition-all"><FaFacebook /></a>
-        <a href="https://youtube.com" target="_blank" rel="noopener noreferrer" className="hover:text-red-500 transition-all"><FaYoutube /></a>
-        <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="hover:text-pink-500 transition-all"><FaInstagram /></a>
+        <a href="https://youtube.com/@truthriver5963?si=DlHZ4IHj9uF4HuYP" target="_blank" rel="noopener noreferrer" className="hover:text-red-500 transition-all"><FaYoutube /></a>
+        <a href="https://www.instagram.com/srishtisharma4650?utm_source=qr&igsh=MWpjdnh0Z3lnY3Njdw==" target="_blank" rel="noopener noreferrer" className="hover:text-pink-500 transition-all"><FaInstagram /></a>
       </div>
       
       {/* Contact Buttons */}
       <div className="mt-8 flex flex-col md:flex-row gap-4">
-        <a href="https://wa.me/9354703303" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 bg-green-500 hover:bg-green-600 px-5 py-3 rounded-lg text-lg transition-all">
+        <a href="https://wa.me/9560988075" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 bg-green-500 hover:bg-green-600 px-5 py-3 rounded-lg text-lg transition-all">
           <FaWhatsapp /> Contact on WhatsApp
         </a>
-        <a href="tel:+919354703303" className="flex items-center gap-2 bg-blue-500 hover:bg-blue-600 px-5 py-3 rounded-lg text-lg transition-all">
+        <a href="tel:+919560988075" className="flex items-center gap-2 bg-blue-500 hover:bg-blue-600 px-5 py-3 rounded-lg text-lg transition-all">
   <FaPhone /> Call Now
 </a>
 
