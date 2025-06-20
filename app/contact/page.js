@@ -1,4 +1,6 @@
-import { FaFacebook, FaYoutube, FaInstagram, FaWhatsapp, FaPhone } from "react-icons/fa";
+import { FaFacebook, FaYoutube, FaInstagram, FaWhatsapp, FaPhone,FaEnvelope, FaTelegramPlane,
+  FaLinkedin, } from "react-icons/fa";
+
 
 const ContactPage = () => {
   return (
@@ -8,18 +10,43 @@ const ContactPage = () => {
       
       {/* Social Icons */}
       <div className="flex gap-6 text-3xl">
-        <a href="https://youtube.com/@truthriver5963?si=DlHZ4IHj9uF4HuYP" target="_blank" rel="noopener noreferrer" className="hover:text-red-500 transition-all"><FaYoutube /></a>
-        <a href="https://www.instagram.com/srishtisharma4650?utm_source=qr&igsh=MWpjdnh0Z3lnY3Njdw==" target="_blank" rel="noopener noreferrer" className="hover:text-pink-500 transition-all"><FaInstagram /></a>
+          <a
+    href="mailto:vanshsharma7832@gmail.com"
+    className="hover:text-green-400 transition-all"
+  >
+    <FaEnvelope />
+  </a>
+  
+  <a
+    href="https://www.linkedin.com/in/vansh-sharma-074698331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" // replace with your LinkedIn profile link
+    target="_blank"
+    rel="noopener noreferrer"
+    className="hover:text-blue-500 transition-all"
+    title="LinkedIn"
+  >
+    <FaLinkedin />
+  </a>
+  <a
+  href="https://www.youtube.com/@VashuTheGreat" // replace with your actual channel URL
+  target="_blank"
+  rel="noopener noreferrer"
+  className="hover:text-red-500 transition-all"
+  title="YouTube"
+>
+  <FaYoutube />
+</a>
+
       </div>
       
       {/* Contact Buttons */}
       <div className="mt-8 flex flex-col md:flex-row gap-4">
-        <a href="https://wa.me/9560988075" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 bg-green-500 hover:bg-green-600 px-5 py-3 rounded-lg text-lg transition-all">
+        <a href="https://wa.me/+919354703303" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 bg-green-500 hover:bg-green-600 px-5 py-3 rounded-lg text-lg transition-all">
           <FaWhatsapp /> Contact on WhatsApp
         </a>
-        <a href="tel:+919560988075" className="flex items-center gap-2 bg-blue-500 hover:bg-blue-600 px-5 py-3 rounded-lg text-lg transition-all">
+        <a href="tel:+919354703303" className="flex items-center gap-2 bg-blue-500 hover:bg-blue-600 px-5 py-3 rounded-lg text-lg transition-all">
   <FaPhone /> Call Now
 </a>
+
 
       </div>
     </div>
