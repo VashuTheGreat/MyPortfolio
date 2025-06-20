@@ -1,0 +1,104 @@
+[
+       {
+    "name": "Full Stack Developer",
+    "image": "./fullstackdeveloper.webp",
+    "position": "Pinterest (2020-Present)",
+    "description": "Built dynamic end-to-end applications using React, Node.js, and MongoDB."
+  },
+  {
+    "name": "Web Development with MERN Stack",
+    "image": "https://storage.googleapis.com/test694/Images/mern-webp.webp",
+    "position": "Pinterest (2020-Present)",
+    "description": "Delivered full-fledged web apps using MongoDB, Express, React, and Node.js."
+  },
+  {
+    "name": "React js",
+    "image": "https://storage.googleapis.com/test694/Images/react-webp.webp",
+    "position": "Pinterest (2020-Present)",
+    "description": "Built responsive UI with reusable components and state management."
+  },
+  {
+    "name": "Node.js",
+    "image": "./nodejs.png",
+    "position": "Pinterest (2020-Present)",
+    "description": "Developed REST APIs and handled backend logic using Express."
+  },
+  {
+    "name": "Python",
+    "image": "./python.png",
+    "position": "Pinterest (2020-Present)",
+    "description": "Used Python for automation, web scraping, and data science tasks."
+  },
+  {
+    "name": "Machine Learning",
+    "image": "https://storage.googleapis.com/test694/Images/ml-webp.webp",
+    "position": "Pinterest (2020-Present)",
+    "description": "Trained classification/regression models and worked on real datasets."
+  },
+  {
+    "name": "Data Science",
+    "image": "https://storage.googleapis.com/test694/Images/science-webp.webp",
+    "position": "Pinterest (2020-Present)",
+    "description": "Analyzed data trends and visualized insights using Python libraries."
+  },
+  {
+    "name": "React Native",
+    "image": "https://storage.googleapis.com/test694/Images/react-webp.webp",
+    "position": "Pinterest (2020-Present)",
+    "description": "Developed cross-platform mobile apps with smooth UI and performance."
+  },
+  {
+    "name": "App Development",
+    "image": "https://storage.googleapis.com/test694/Images/app-svg.webp",
+    "position": "Pinterest (2020-Present)",
+    "description": "Created Android apps using React Native and Android Studio."
+  },
+  {
+    "name": "JavaScript",
+    "image": "./js.png",
+    "position": "Pinterest (2020-Present)",
+    "description": "Enhanced frontend logic and interactivity with modern JS (ES6+)."
+  },
+  {
+    "name": "HTML",
+    "image": "./html.png",
+    "position": "Pinterest (2020-Present)",
+    "description": "Structured responsive webpages with semantic and accessible HTML."
+  },
+  {
+    "name": "CSS",
+    "image": "https://imgs.search.brave.com/-JhIc0G42LI0w6mdOh3o3AhshcTZ2E4cdD3M-ILki2U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2M1L2Yy/LzY1L2M1ZjI2NTk4/ZDA3ZmZhYjAwOTAw/OWNjMTM0YTZhNzk1/LmpwZw",
+    "position": "Pinterest (2020-Present)",
+    "description": "Styled webpages with animations, transitions, Flexbox and Grid."
+  },
+  {
+    "name": "SQL",
+    "image": "https://storage.googleapis.com/test694/Images/sql.png",
+    "position": "Pinterest (2020-Present)",
+    "description": "Designed relational databases and performed complex queries."
+  },
+  {
+    "name": "Java",
+    "image": "./java.png",
+    "position": "Pinterest (2020-Present)",
+    "description": "Built robust backend systems and OOP-based applications."
+  },
+  {
+    "name": "C++",
+    "image": "./c++.png",
+    "position": "Pinterest (2020-Present)",
+    "description": "Implemented efficient algorithms and solved DSA problems."
+  },
+  {
+    "name": "C",
+    "image": "./c.png",
+    "position": "Pinterest (2020-Present)",
+    "description": "Learned low-level memory management and procedural programming."
+  },
+  {
+    "name": "AI Tools",
+    "image": "https://storage.googleapis.com/test694/Images/aitools-webp.webp",
+    "position": "Pinterest (2020-Present)",
+    "description": "Explored cutting-edge AI tools like ChatGPT, AutoGPT, and Midjourney."
+  }
+    ]
